@@ -1,0 +1,117 @@
+.elementor-kit-5{--e-global-color-primary:#00B6FF;--e-global-color-secondary:#D0DAE4;--e-global-color-text:#222222;--e-global-color-accent:#FFD152;--e-global-color-27e5bb3b:#FFFFFF;--e-global-color-52965702:#65D2FD;--e-global-typography-primary-font-family:"Inter";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Inter";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Inter";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Inter";--e-global-typography-accent-font-weight:500;}.elementor-kit-5 a{color:var( --e-global-color-primary );}.elementor-kit-5 a:hover{color:var( --e-global-color-primary );}.elementor-kit-5 h1{font-size:48px;font-weight:700;line-height:48px;}.elementor-kit-5 h2{font-size:32px;font-weight:700;}.elementor-kit-5 button,.elementor-kit-5 input[type="button"],.elementor-kit-5 input[type="submit"],.elementor-kit-5 .elementor-button{font-size:18px;font-weight:600;color:var( --e-global-color-text );background-color:var( --e-global-color-primary );}.elementor-kit-5 button:hover,.elementor-kit-5 button:focus,.elementor-kit-5 input[type="button"]:hover,.elementor-kit-5 input[type="button"]:focus,.elementor-kit-5 input[type="submit"]:hover,.elementor-kit-5 input[type="submit"]:focus,.elementor-kit-5 .elementor-button:hover,.elementor-kit-5 .elementor-button:focus{color:var( --e-global-color-text );background-color:var( --e-global-color-52965702 );}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}{}h1.entry-title{display:var(--page-title-display);}.site-header{padding-right:0px;padding-left:0px;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}}/* Start custom CSS */table.variations {
+    display: none;
+}
+table tbody>tr:nth-child(odd)>td, table tbody>tr:nth-child(odd)>th {
+    background-color: #ffffff00;
+}
+table tbody tr:hover>td, table tbody tr:hover>th {
+    background-color: #ffffff00;
+}
+.woocommerce-message {
+    border-top-color: #45EDC6;
+    max-width: 1105px;
+    margin: auto;
+}
+
+
+.woocommerce-variation-add-to-cart .quantity .qty {
+    color: #45EDC6 !important;
+}
+
+.woocommerce table.shop_table {
+    border: 0px;
+}
+.woocommerce table.shop_table td {
+    border-top: 1px solid #EFDAB9;
+}
+
+.woocommerce td {
+    border: 0px;
+}
+table td, table th {
+    border: 0px;
+}
+table thead:first-child tr:first-child th {
+    border-top: 01px;
+}
+img.attachment-woocommerce_thumbnail.size-woocommerce_thumbnail {
+    display: none;
+}
+.woocommerce-cart .cart-collaterals .cart_totals tr th {
+    border-top: 1px solid #EFDAB9;
+}
+
+
+.woocommerce a.button.alt {
+    background-color: #45EDC6;
+    color: #2A2829 !important;
+}
+.woocommerce a.button.alt:hover {
+    background-color: #ffffff;
+    color: #2A2829;
+}
+.woocommerce button.button  {
+    background-color: #343233;
+    color: #45EDC6;
+    border: 1px solid 
+}
+.woocommerce button.button:hover  {
+    background-color: #343233;
+    color: #ffffff;
+}
+.select2-results__option {
+    color: #000000;
+}
+
+input[type=text] {
+    border: 1px solid #EFDAB960 !important;
+    background-color: #343233;
+    color: #EFDAB9;
+}
+
+input[type=email] {
+    border: 1px solid #EFDAB960 !important;
+    background-color: #343233;
+    color: #EFDAB9;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    border: 1px solid #EFDAB960 !important;
+    background-color: #343233 !important;
+    color: #EFDAB9 !important;
+    padding: 6px !important;
+    border-radius: 3px !important;
+}
+
+textarea {
+    border: 1px solid #EFDAB960 !important;
+    background-color: #343233;
+    color: #EFDAB9;
+}
+
+label {
+    font-size: 16px;
+}
+.woocommerce form .form-row label {
+    margin-top: 20px;
+}
+
+
+
+.woocommerce-checkout #payment {
+    background-color: #343233;
+}
+
+.woocommerce button.button.alt {
+    background-color: #45EDC6;
+    border: none;
+    color: #343233;
+}
+.woocommerce button.button.alt:hover {
+    background-color: #ffffff;
+    color: #343233;
+}
+
+#order_review_heading {
+    margin-top: 80px;
+}/* End custom CSS */
